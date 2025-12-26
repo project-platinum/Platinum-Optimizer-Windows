@@ -1,7 +1,7 @@
 <h1 align="center">💥Platinum+ Optimizer 7.0💥</h1>
 <img src="Images/banner.png" alt="Banner">
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)] [![Latest Release](https://img.shields.io/badge/release-v7.0--stable-blue.svg?style=for-the-badge)](./releases/latest) [![Open Issues](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft)]()] [![Last Commit](https://img.shields.io/badge/last%20commit-today-lightgrey.svg?style=for-the-badge)]
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)] [![Latest Release](https://img.shields.io/badge/release-v7.0--stable-blue.svg?style=for-the-badge)](./releases/latest) [![Open Issues](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft)]()]
 
 
 ---
