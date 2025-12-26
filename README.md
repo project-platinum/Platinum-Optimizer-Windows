@@ -1,5 +1,5 @@
 # Platinum+ Optimizer 7.0
-
+<h1 align="center">Platinum+ Optimizer 7.0</h1>
 ![Banner](https://images.unsplash.com/photo-1635332306526-788390760459?q=80&w=1200&h=400&fit=crop)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer)
