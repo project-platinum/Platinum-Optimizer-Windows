@@ -19,25 +19,7 @@ Progettato per gamer, creativi e power user, il progetto mira a eliminare i coll
 
 ## 2. 🛠️ Architettura dei Moduli di Ottimizzazione
 
-Il cuore di Platinum+ Optimizer è diviso in **6 sezioni specializzate**, ognuna progettata per intervenire su un'area critica del sistema operativo. Ecco un'analisi approfondita delle funzionalità offerte:
-
-```text
-╔══════════════════════════════════════════════╗
-║             PLATINUM+ OPTIMIZER              ║
-║                 Version 7.0                  ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║   [1] CPU PERFORMANCE OPTIMIZATION           ║
-║   [2] GPU PERFORMANCE OPTIMIZATION           ║
-║   [3] SYSTEM DEBLOATER                       ║
-║   [4] SERVICES OPTIMIZER                     ║
-║   [5] NETWORK OPTIMIZER                      ║
-║   [6] RAM/MEMORY OPTIMIZER                   ║
-║                                              ║
-╠══════════════════════════════════════════════╣
-║   [0] EXIT                                   ║
-╚══════════════════════════════════════════════╝
-```
+Il Platinum+ Optimizer è diviso in **6 sezioni specializzate**, ognuna progettata per intervenire su un'area critica del sistema operativo. Ecco un'analisi approfondita delle funzionalità offerte:
 
 ### ⚡ [1] CPU Performance Optimization
 Questo modulo agisce sulla gestione dei cicli di clock e sulla distribuzione del carico di lavoro. Implementa profili energetici personalizzati che disabilitano il **Core Parking** e regolano l'**Interrupt Moderation**, assicurando che il processore risponda istantaneamente alle richieste delle applicazioni ad alto carico (come giochi o software di rendering) senza cali di frequenza improvvisi.
@@ -65,10 +47,9 @@ Per garantire il corretto funzionamento dei tweak del kernel, il sistema deve so
 
 | Componente | Requisito Minimo | Consigliato |
 | :--- | :--- | :--- |
-| **Sistema Operativo** | Windows 10 (1903+) | Windows 11 (Tutte le versioni) |
-| **Architettura** | x64 | x64 con supporto AVX2 |
+| **Sistema Operativo** | Windows 10 (22h2) | Windows 11 (25h2) |
+| **Architettura** | x64 | x64 |
 | **RAM** | 4 GB | 16 GB+ |
-| **Permessi** | Privilegi di Amministratore | Accesso Root/System |
 
 ---
 
