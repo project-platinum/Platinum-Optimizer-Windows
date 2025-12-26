@@ -54,23 +54,11 @@ Per garantire il corretto funzionamento dei tweak del kernel, il sistema deve so
 
 ## 4. 📥 Come installarlo
 
-Il software è distribuito come script batch ultra-ottimizzato. Segui rigorosamente questi passaggi:
+Il software è distribuito come script batch. Segui rigorosamente questi passaggi:
 
 ### 🛠️ Passaggi per l'installazione
-1.  **Download**: Scarica l'ultima release ufficiale [cliccando qui](./releases/latest).
-2.  **Estrazione**: Estrai il contenuto in una cartella locale (non su drive di rete).
-3.  **Esecuzione**: Fai click destro sul file `PlatinumOptimizer.bat` e seleziona **"Esegui come Amministratore"**.
-4.  **Sicurezza**: Inserisci la password di accesso fornita con la tua licenza quando richiesto.
-
-### 💻 Esempio di Configurazione (`config.yaml`)
-Puoi pre-configurare l'ottimizzazione per distribuzioni automatizzate:
-```yaml
-# Platinum+ Auto-Config
-optimization_level: "aggressive"
-gpu_vendor: "nvidia"
-network_boost: true
-debloat_telemetry: true
-```
+1.  **Download**: Scarica l'ultima release ufficiale.
+2.  **Esecuzione**: Fai click destro sul file `Platinum+Optimizer.bat` e seleziona **"Esegui come Amministratore"**.
 
 ### 📸 Screenshot dell'interfaccia
 ![Screenshot 1](./images/screen1.png)
@@ -91,7 +79,7 @@ Lo sviluppo e la ricerca dietro Platinum+ Optimizer sono curati da:
 
 ## 6. 📜 Licenza
 
-Copyright © 2024 Platinum+ Optimizer Team.
+Copyright © 2025 Platinum+ Optimizer.
 **LICENZA PROPRIETARIA.**
 
 Questo software è protetto dalle leggi sul copyright. 
@@ -100,4 +88,3 @@ Questo software è protetto dalle leggi sul copyright.
 *   ⚠️ L'uso del software è a rischio dell'utente. Gli autori non si assumono responsabilità per danni hardware o perdita di dati derivanti da tweak aggressivi.
 
 ---
-*Progetto creato con passione per la community del PC Gaming.*
