@@ -1,5 +1,5 @@
 <h1 align="center">Platinum+ Optimizer 7.0</h1>
-![Banner](images/banner.png)
+<img src="images/banner.png" alt="Banner">
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer)  
 [![Latest Release](https://img.shields.io/badge/release-v7.0--stable-blue.svg?style=for-the-badge)](./releases/latest)  
