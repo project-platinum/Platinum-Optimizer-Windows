@@ -1,16 +1,16 @@
 <h1 align="center">Platinum+ Optimizer 7.0</h1>
 ![Banner](https://images.unsplash.com/photo-1635332306526-788390760459?q=80&w=1200&h=400&fit=crop)
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer)
-[![Latest Release](https://img.shields.io/badge/release-v7.0--stable-blue.svg?style=for-the-badge)](./releases/latest)
-[![Open Issues](https://img.shields.io/badge/issues-0%20open-success.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer/issues)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer)  
+[![Latest Release](https://img.shields.io/badge/release-v7.0--stable-blue.svg?style=for-the-badge)](./releases/latest)  
+[![Open Issues](https://img.shields.io/badge/issues-0%20open-success.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer/issues)  
 [![Last Commit](https://img.shields.io/badge/last%20commit-today-lightgrey.svg?style=for-the-badge)](https://github.com/STEFANO83223/platinum-optimizer/commits/main)
 
 ---
 
 ## 1. 🚀 Cos'è Platinum+ Optimizer?
 
-**Platinum+ Optimizer 7.0** è uno strumento avanzato di ottimizzazione del sistema Windows, sviluppato per massimizzare le prestazioni hardware attraverso tweak di basso livello del Kernel e del Registro di Sistema. 
+**Platinum+ Optimizer 7.0** è uno strumento avanzato di ottimizzazione del sistema Windows, sviluppato per massimizzare le prestazioni hardware attraverso tweak di basso livello del Kernel e del Registro di Sistema.  
 
 Progettato per gamer, creativi e power user, il progetto mira a eliminare i colli di bottiglia del sistema operativo, riducendo drasticamente la latenza di input e stabilizzando il framerate attraverso un'interfaccia testuale intuitiva e potente.
 
@@ -18,35 +18,39 @@ Progettato per gamer, creativi e power user, il progetto mira a eliminare i coll
 
 ## 2. 🛠️ Architettura dei Moduli di Ottimizzazione
 
-Il Platinum+ Optimizer è diviso in **6 sezioni specializzate**, ognuna progettata per intervenire su un'area critica del sistema operativo. Ecco un'analisi approfondita delle funzionalità offerte:
+Il Platinum+ Optimizer è diviso in **6 sezioni specializzate**, ognuna progettata per intervenire su un'area critica del sistema operativo:
 
 ### ⚡ [1] CPU Performance Optimization
-Questo modulo agisce sulla gestione dei cicli di clock e sulla distribuzione del carico di lavoro. Implementa profili energetici personalizzati che disabilitano il **Core Parking** e regolano l'**Interrupt Moderation**, assicurando che il processore risponda istantaneamente alle richieste delle applicazioni ad alto carico (come giochi o software di rendering) senza cali di frequenza improvvisi.
+Ottimizza la gestione dei cicli di clock e del carico di lavoro, disabilitando il **Core Parking** e regolando l'**Interrupt Moderation**, per massima reattività in applicazioni e giochi ad alto carico.
 
 ### 🎮 [2] GPU Performance Optimization
-Interviene direttamente sulla pipeline grafica. Oltre a ottimizzare i parametri dei driver (NVIDIA, AMD, Intel), il tool configura il sistema per dare priorità assoluta al rendering della GPU, gestisce la cache degli shader e ottimizza la modalità di gestione dell'alimentazione per garantire il massimo throughput video e ridurre il micro-stuttering.
+Migliora la pipeline grafica, configurando driver NVIDIA, AMD e Intel, gestendo la cache degli shader e ottimizzando la modalità di alimentazione per ridurre micro-stutter e garantire framerate stabile.
 
 ### 🚫 [3] System Debloater
-Windows include numerosi processi e applicazioni "gonfie" che consumano risorse in background. Questo modulo rimuove in modo sicuro la telemetria, disabilita il tracciamento dei dati di Microsoft e pulisce il sistema dalle app preinstallate (UWP) non necessarie, liberando cicli CPU e spazio su disco per un sistema più snello e privato.
+Rimuove telemetria, tracciamento dati e app preinstallate (UWP) non necessarie, liberando risorse di CPU, RAM e spazio disco per un sistema più snello e privato.
 
 ### ⚙️ [4] Services Optimizer
-Analizza e disabilita i servizi di Windows non essenziali che vengono avviati automaticamente. Riducendo il numero di servizi attivi (come l'Error Reporting, Print Spooler se non necessario, o servizi di diagnostica remota), si riduce l'overhead del kernel, migliorando drasticamente i tempi di avvio e la reattività generale del desktop.
+Disabilita i servizi Windows non essenziali, riducendo l'overhead del kernel e migliorando tempi di avvio e reattività generale del desktop.
 
 ### 🌐 [5] Network Optimizer
-Ottimizza lo stack TCP/IP per ridurre la latenza di rete (Ping). Attraverso la disattivazione dell'algoritmo di Nagle e la configurazione avanzata dei parametri di ricezione/invio pacchetti, questo modulo garantisce una connessione più stabile e veloce, ideale per il gaming competitivo online e lo streaming ad alta velocità.
+Ottimizza lo stack TCP/IP per ridurre la latenza di rete, migliorando stabilità e velocità di connessione per gaming competitivo e streaming.
 
 ### 🧠 [6] RAM/Memory Optimizer
-Gestisce in modo intelligente la memoria ad accesso casuale. Il modulo ottimizza la gestione del **Pagefile**, pulisce la **Standby List** (cache della RAM spesso saturata) e configura il sistema per prevenire il paging eccessivo su disco, assicurando che le applicazioni critiche abbiano sempre accesso alla memoria fisica più veloce disponibile.
+Gestisce in modo intelligente il **Pagefile**, pulisce la **Standby List** e previene il paging eccessivo, garantendo che le applicazioni critiche abbiano accesso alla memoria più veloce.
 
 ---
 
 ## 3. 📋 Requisiti di Sistema
 
-Per garantire il corretto funzionamento dei tweak del kernel, il sistema deve soddisfare i seguenti requisiti:
+Per sfruttare al massimo i tweak del kernel, si consiglia **l’uso di una versione pulita di Windows** (preferibilmente Windows X Lite) con le seguenti release:
+
+| Sistema Operativo | Versione consigliata |
+| :--- | :--- |
+| Windows 10 | Optium 10 22h2 (ultima versione) |
+| Windows 11 | Optium 11 25h2 (ultima versione) |
 
 | Componente | Requisito Minimo | Consigliato |
 | :--- | :--- | :--- |
-| **Sistema Operativo** | Windows 10 (22h2) | Windows 11 (25h2) |
 | **Architettura** | x64 | x64 |
 | **RAM** | 4 GB | 16 GB+ |
 
@@ -54,10 +58,12 @@ Per garantire il corretto funzionamento dei tweak del kernel, il sistema deve so
 
 ## 4. 📥 Come installarlo
 
-Il software è distribuito come script batch. Segui rigorosamente questi passaggi:
+Il software può essere scaricato **direttamente dal sito ufficiale**: [Platinum+ Optimizer Download](https://github.com/STEFANO83223/platinum-optimizer/releases/latest)  
+
+Il software è distribuito come script batch. Segui questi passaggi:
 
 ### 🛠️ Passaggi per l'installazione
-1.  **Download**: Scarica l'ultima release ufficiale.
+1.  **Download**: Scarica l'ultima release ufficiale dal link sopra.
 2.  **Esecuzione**: Fai click destro sul file `Platinum+Optimizer.bat` e seleziona **"Esegui come Amministratore"**.
 
 ### 📸 Screenshot dell'interfaccia
@@ -71,20 +77,17 @@ Il software è distribuito come script batch. Segui rigorosamente questi passagg
 
 Lo sviluppo e la ricerca dietro Platinum+ Optimizer sono curati da:
 
-*   **@STEFANO83223** - Lead Developer & Engine Architect (Kernel Logic).
-*   **@Aledect** - UI/UX Designer & Performance Researcher.
-*   **Beta Testing Team** - Ringraziamento speciale ai tester della community.
+* **@STEFANO83223** - Lead Developer & Engine Architect (Kernel Logic).  
+* **@Aledect** - UI/UX Designer & Performance Researcher.  
+* **Beta Testing Team** - Ringraziamento speciale ai tester della community.
 
 ---
 
 ## 6. 📜 Licenza
 
-Copyright © 2025 Platinum+ Optimizer.
+Copyright © 2025 Platinum+ Optimizer.  
 **LICENZA PROPRIETARIA.**
 
-Questo software è protetto dalle leggi sul copyright. 
-*   ❌ È vietata la ridistribuzione non autorizzata.
-*   ❌ È vietata la decompilazione o modifica del codice sorgente.
-*   ⚠️ L'uso del software è a rischio dell'utente. Gli autori non si assumono responsabilità per danni hardware o perdita di dati derivanti da tweak aggressivi.
-
----
+* ❌ Vietata la ridistribuzione non autorizzata.  
+* ❌ Vietata la decompilazione o modifica del codice sorgente.  
+* ⚠️ Uso a rischio dell'utente. Gli autori non si assumono responsabilità per eventuali danni hardware o perdita di dati derivanti da tweak aggressivi.
