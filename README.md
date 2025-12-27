@@ -105,4 +105,4 @@ Copyright © 2025 Platinum+ Optimizer.
 
 * ❌ Vietata la ridistribuzione non autorizzata.  
 * ❌ Vietata la decompilazione o modifica del codice sorgente.  
-* ⚠️ Uso a rischio dell'utente. Gli autori non si assumono responsabilità per eventuali danni hardware o perdita di dati derivanti da tweak aggressivi.
+* ⚠️ Gli autori **non sono responsabili** per un uso non corretto del tweak. 
