@@ -80,10 +80,6 @@ Il software è distribuito come script batch. Segui questi passaggi:
 L’antivirus deve essere disattivato temporaneamente perché lo script esegue
 ottimizzazioni di sistema e modifiche a componenti sensibili (kernel e servizi di Windows).
 Queste operazioni vengono spesso bloccate o rilevate come falsi positivi dagli antivirus.
-
-### 🔍 Verifica consigliata
-Per maggiore sicurezza, puoi analizzare il file con **VirusTotal** prima dell’esecuzione:  
-https://www.virustotal.com
 ```
 
 
