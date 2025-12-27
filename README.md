@@ -63,9 +63,29 @@ Il software può essere scaricato **direttamente dal sito ufficiale**: [Platinum
 
 Il software è distribuito come script batch. Segui questi passaggi:
 
-### 🛠️ Passaggi per l'installazione
-1.  **Download**: Scarica l'ultima release ufficiale dal link sopra.
-2.  **Esecuzione**: Fai click destro sul file `Platinum+Optimizer.bat` e seleziona **"Esegui come Amministratore"**.
+## 🛠️ Passaggi per l'installazione
+
+1. **Download**  
+   Scarica l'ultima release ufficiale dal link sopra.
+
+2. **Antivirus (temporaneo)**  
+   ⚠️ Disattiva temporaneamente **il tuo antivirus** prima dell’esecuzione.
+
+3. **Esecuzione**  
+   Fai clic destro sul file `Platinum+Optimizer.bat` e seleziona **"Esegui come Amministratore"**.
+
+---
+
+## ⚠️ Nota importante
+
+L’antivirus deve essere disattivato temporaneamente perché lo script effettua  
+**ottimizzazioni di sistema e modifiche a componenti sensibili (kernel e servizi di Windows)**.  
+Queste operazioni vengono spesso **bloccate o segnalate come falsi positivi** dagli antivirus.
+
+
+### 🔍 Verifica consigliata
+Per maggiore sicurezza, puoi analizzare il file con **VirusTotal** prima dell’esecuzione:  
+https://www.virustotal.com
 
 ### 📸 Screenshot dell'interfaccia
 ![Screenshot 1](./images/screen1.png)
