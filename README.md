@@ -91,8 +91,7 @@ Queste operazioni vengono spesso bloccate o rilevate come falsi positivi dagli a
 
 ## 5. 👥 Crediti
 
-Assistenza e bug: [Gruppo Telegram](https://t.me/c/2611775805/1)
-
+- [**Assistenza e bug**](https://t.me/c/2611775805/1)
 - [**@STEFANO83223**](https://t.me/STEFANO83223) - Developer & Tester (Fixes, Bugs)  
 - [**@Aledect**](https://t.me/aledect) - Tester, Bug Fixes & Designer (UI/UX)  
 - [**@Gattuccio90**](https://t.me/Gattucio90) - Website Development
