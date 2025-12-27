@@ -74,13 +74,11 @@ Il software è distribuito come script batch. Segui questi passaggi:
 3. **Esecuzione**  
    Fai clic destro sul file `Platinum+Optimizer.bat` e seleziona **"Esegui come Amministratore"**.
 
----
+⚠️ **Nota importante**
 
-## ⚠️ Nota importante
-
-L’antivirus deve essere disattivato temporaneamente perché lo script effettua  
+L’antivirus deve essere disattivato temporaneamente perché lo script esegue  
 **ottimizzazioni di sistema e modifiche a componenti sensibili (kernel e servizi di Windows)**.  
-Queste operazioni vengono spesso **bloccate o segnalate come falsi positivi** dagli antivirus.
+Queste operazioni vengono spesso **bloccate o rilevate come falsi positivi** dagli antivirus.
 
 
 ### 🔍 Verifica consigliata
