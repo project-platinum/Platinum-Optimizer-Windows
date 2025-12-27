@@ -46,7 +46,7 @@ Per sfruttare al massimo i tweak del kernel, si consiglia **l’uso di una versi
 | Windows 11 | Optium 11 (ultima versione) | [Visita sito](https://windowsxlite.com/win11/) |
 
 
-
+‎ 
 | Componente | Requisito Minimo | Consigliato |
 | :--- | :--- | :--- |
 | **Architettura** | x64 | x64 |
