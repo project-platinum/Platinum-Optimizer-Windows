@@ -92,7 +92,9 @@ Queste operazioni vengono spesso bloccate o rilevate come falsi positivi dagli a
 ## 5. 👥 Crediti
 
 Lo sviluppo e la ricerca dietro Platinum+ Optimizer sono curati da:
-<h1 align="center">Gruppo Telegram</h1>
+<h3 align="center">
+  <a href="https://t.me/c/2611775805/1">Gruppo Telegram</a>
+</h3>
 - [**@STEFANO83223**](https://t.me/STEFANO83223) - Developer & Tester (Fixes, Bugs)  
 - [**@Aledect**](https://t.me/aledect) - Tester, Bug Fixes & Designer (UI/UX)  
 - [**@Gattuccio90**](https://t.me/Gattucio90) - Website Development   
