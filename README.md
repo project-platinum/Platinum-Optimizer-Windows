@@ -1,5 +1,5 @@
 <h1 align="center">💥Platinum+ Optimizer 7.0💥</h1>
-<a href="https://ibb.co/hFg2f5tm"><img src="https://i.ibb.co/WvHBt9Y2/banner.gif" alt="banner" border="0"></a>
+<img src="Images/banner.png" alt="Banner">
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge) [![Latest Release](https://img.shields.io/badge/release-v7.0--stable-blue.svg?style=for-the-badge)](./releases/latest) [![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft&style=for-the-badge)]()
 
