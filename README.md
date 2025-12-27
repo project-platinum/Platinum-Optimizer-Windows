@@ -36,15 +36,18 @@ Ottimizza lo stack TCP/IP per ridurre la latenza di rete, migliorando stabilità
 Gestisce in modo intelligente il **Pagefile**, pulisce la **Standby List** e previene il paging eccessivo, garantendo che le applicazioni critiche abbiano accesso alla memoria più veloce.
 
 ---
-
 ## 3. 📋 Requisiti di Sistema
 
-Per sfruttare al massimo i tweak del kernel, si consiglia **l’uso di una versione pulita di Windows** (preferibilmente Windows X Lite) con le seguenti release:
+Per sfruttare al massimo i tweak del kernel, si consiglia **l’uso di una versione pulita di Windows** (preferibilmente **Windows X Lite**) con le seguenti release:
 
-| Sistema Operativo | Versione consigliata |
-| :--- | :--- |
-| Windows 10 | Optium 10 22h2 (ultima versione) |
-| Windows 11 | Optium 11 25h2 (ultima versione) |
+| Sistema Operativo | Versione consigliata | Sito Web |
+| :--- | :--- | :--- |
+| Windows 10 | Optium 10 (ultima versione) | [Visita sito](https://windowsxlite.com/win10/) |
+| Windows 11 | Optium 11 (ultima versione) | [Visita sito](https://windowsxlite.com/win11/) |
+
+**Diritti autore / crediti:**  
+Creatore ISO: FBConan | [Visita sito](https://ko-fi.com/windowsxlite) |
+
 
 | Componente | Requisito Minimo | Consigliato |
 | :--- | :--- | :--- |
