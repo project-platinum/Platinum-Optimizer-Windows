@@ -63,8 +63,6 @@ Il software può essere scaricato **direttamente dal sito ufficiale**: [Platinum
 
 Il software è distribuito come script batch. Segui questi passaggi:
 
-## 🛠️ Passaggi per l'installazione
-
 1. **Download**  
    Scarica l'ultima release ufficiale dal link sopra.
 
