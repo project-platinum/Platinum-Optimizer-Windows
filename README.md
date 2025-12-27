@@ -45,13 +45,14 @@ Per sfruttare al massimo i tweak del kernel, si consiglia **l’uso di una versi
 | Windows 10 | Optium 10 (ultima versione) | [Visita sito](https://windowsxlite.com/win10/) |
 | Windows 11 | Optium 11 (ultima versione) | [Visita sito](https://windowsxlite.com/win11/) |
 
-**Diritti autore / crediti:**  
-Creatore ISO: [FBConan](https://ko-fi.com/windowsxlite)  
 
 | Componente | Requisito Minimo | Consigliato |
 | :--- | :--- | :--- |
 | **Architettura** | x64 | x64 |
 | **RAM** | 4 GB | 16 GB+ |
+
+**Diritti autore / crediti:**  
+Creatore ISO: [FBConan](https://ko-fi.com/windowsxlite)  
 
 ---
 
