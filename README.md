@@ -75,10 +75,9 @@ Il software è distribuito come script batch. Segui questi passaggi:
 ## 5. 👥 Crediti
 
 Lo sviluppo e la ricerca dietro Platinum+ Optimizer sono curati da:
-
-* **@STEFANO83223** - Lead Developer & Engine Architect (Kernel Logic).  
-* **@Aledect** - UI/UX Designer & Performance Researcher.  
-* **Beta Testing Team** - Ringraziamento speciale ai tester della community.
+- [**@STEFANO83223**](https://t.me/STEFANO83223) - Developer & Tester (Fixes, Bugs)  
+- [**@Aledect**](https://t.me/aledect) - Tester, Bug Fixes & Designer (UI/UX)  
+- [**@Gattuccio90**](https://t.me/Gattucio90) - Website Development   
 
 ---
 
